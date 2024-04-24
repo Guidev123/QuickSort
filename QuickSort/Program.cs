@@ -1,6 +1,6 @@
 ﻿namespace QuickSort
 {
-	public abstract class Program : Sort
+	public class Program : Sort
 	{
 		static void Main(string[] args)
 		{
