@@ -1,4 +1,4 @@
-<h1>Implemetando o QuickSort</h1>
+<h1>Implemetando o QuickSort 💻</h1>
 <h2>Demonstração teórica do algoritmo</h2>
 
 ![image](https://github.com/Guidev123/QuickSort/assets/155389912/2f9b73d6-c893-4515-b5f5-9a2bf19af94c)
